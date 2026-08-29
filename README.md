@@ -85,9 +85,9 @@
 <br/>
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=mohammedrazilrahees01-stack&theme=react&border_radius=10" alt="GitHub streak statistics" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mohammedrazilrahees01-stack&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub statistics" />
+  <img width="390" src="https://github-readme-stats-three-lovat.vercel.app/api?username=mohammedrazilrahees01-stack&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub statistics" />
   <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrazilrahees01-stack&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Most used languages" />
+  <img width="325" src="https://github-readme-stats-three-lovat.vercel.app/api/top-langs/?username=mohammedrazilrahees01-stack&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Most used languages" />
 </div>
 
 <br/>
