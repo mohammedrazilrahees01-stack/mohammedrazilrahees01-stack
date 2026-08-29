@@ -1,24 +1,16 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohammedrazilrahees01-stack.mohammedrazilrahees01-stack" />
+<img align="right" src="https://komarev.com/ghpvc/?username=mohammedrazilrahees01-stack&color=7C3AED&style=flat-square&label=Profile+Views" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+%F0%9F%91%8B;I'm+Mohammed+Razil+Rahees;Full+Stack+Developer+%26+IT+Engineer" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Razil%20Rahees&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20IT%20Engineer&descAlignY=55&descSize=18" />
+</p>
 
-<h3 align="center">Building practical web experiences and keeping technology running smoothly · Abu Dhabi, UAE</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+with+React%2C+Django+%26+FastAPI;Bridging+Web+Dev+%2B+IT+Support+%2B+ELV+Systems;Currently+chasing+full-stack+architecture+%26+cloud" />
+</h3>
+
+<p align="center">Building practical web experiences and keeping technology running smoothly · Abu Dhabi, UAE</p>
 
 <br/>
-
-<div align="center">
-
-🔭 Currently building responsive applications with **React, Django & REST APIs**
-
-🌱 Learning and sharpening **full-stack architecture, cloud tools & modern deployment**
-
-💬 Ask me about **Python, JavaScript, React, Django, IT support, networking, or anything [here](https://github.com/mohammedrazilrahees01-stack/mohammedrazilrahees01-stack/issues)**
-
-⚡ I bridge **web development + IT support + ELV systems** to solve real-world problems end to end.
-
-</div>
 
 <div align="center">
   <a href="mailto:mohammedrazilrahees01@gmail.com">
@@ -32,13 +24,21 @@
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/mohammedracn" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" />
+  </a>
+</div>
+
 <hr/>
 
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,django,nodejs,express,bootstrap" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,figma,postman,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,django,nodejs,express,fastapi" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,nextjs,git,github,vscode,figma,linux,aws" />
 </div>
 
 <br/>
@@ -49,13 +49,23 @@
 
 | Project | What I built | Stack |
 | :--- | :--- | :--- |
-| **POS Billing System** | Invoices, payment tracking, role-based access, and PDF export—helping reduce manual billing work. | Django · Python · SQLite · REST API |
-| **E-Commerce Platform** | Product catalog, cart, checkout flow, and responsive server-rendered experience. | Node.js · EJS · JavaScript |
-| **Corporate Information Website** | Fast, polished, mobile-first client website with reusable components. | React · Bootstrap · REST API |
+| **AEGIS** | Enterprise-grade cyber investigation platform with RBAC and audit-ready access control — built for eventual government-scale deployment. | FastAPI · PostgreSQL · Redis · Celery · JWT |
+| **BuyHoreca (Client)** | Full rebuild of a live Dubai HoReCa e-commerce store — growth audit, neomorphism theme redesign, custom dev theme. | Shopify · Liquid · Custom Theme |
+| **Multi-Vendor Marketplace** | Marketplace platform with dual payment rails and free-tier cloud infrastructure. | Medusa.js · Next.js · Stripe Connect · Razorpay |
+| **MT5 Trading Bot** | Algorithmic trading bot with a trailing-stop system and multi-position management. | Python · MetaTrader5 API |
+| **POS Billing System** | Invoicing, payment tracking, role-based access, and PDF export to cut manual billing work. | Django · Python · SQLite · REST API |
 
 </div>
 
 <br/>
+<hr/>
+
+<div align="center">
+  <h2>🏆 Trophy Case 🏆</h2>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedrazilrahees01-stack&theme=algolia&no-frame=true&row=1&column=6" />
+</div>
+
 <hr/>
 
 <div align="center">
@@ -74,15 +84,14 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrazilrahees01-stack&theme=react&border_radius=10" alt="GitHub streak statistics" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=mohammedrazilrahees01-stack&theme=react&border_radius=10" alt="GitHub streak statistics" />
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=mohammedrazilrahees01-stack&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub statistics" />
   <br/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrazilrahees01-stack&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Most used languages" />
 </div>
 
 <br/>
-<hr/>
 
-<div align="center">
-  <i>Open to full-stack development, IT support, and technical opportunities in the UAE.</i>
-</div>
+<p align="center"><i>Open to full-stack development, IT support, and technical opportunities in the UAE.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
